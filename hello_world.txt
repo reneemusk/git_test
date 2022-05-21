@@ -1,0 +1,1 @@
+Remember, to open a file within the terminal, just type 'code' space <file name>!
